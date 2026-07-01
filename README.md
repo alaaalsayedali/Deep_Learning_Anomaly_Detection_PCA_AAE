@@ -57,8 +57,7 @@ AAE-PCA-Anomaly-Detection
 │
 ├── README.md
 ├── requirements.txt
-├── LICENSE
-└── .gitignore
+└── LICENSE
 ```
 
 ---
